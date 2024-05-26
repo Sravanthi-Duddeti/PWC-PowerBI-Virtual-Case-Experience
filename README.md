@@ -23,9 +23,13 @@ task 1: Call Centre Trends Create a dashboard in Power BI for Claire that reflec
 Possible KPIs include (to get you started, but not limited to):
 
 Overall customer satisfaction
+
 Overall calls answered/abandoned
+
 Calls by time
+
 Average speed of answer
+
 Agentâ€™s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ![trne analysis](https://github.com/Sravanthi-Duddeti/PWC-PowerBI-Virtual-Case-Experience/assets/128029018/da9ddf05-7af2-44bf-9fac-2f873aa2350d)
@@ -35,9 +39,13 @@ Task 2: Customer Retention A few weeks after presenting your dashboard to the ma
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
 
 Customers in the telecom industry are hard-earned: we donâ€™t want to lose them
+
 The retention department is here to get customers back in case of termination
+
 Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk
+
 We have done customer analysis with Excel: it has always ended in a dead-end
+
 We would like to know more about our customers: visualised clearly so that itâ€™s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
 
 ![Screenshot (124)](https://github.com/Sravanthi-Duddeti/PWC-PowerBI-Virtual-Case-Experience/assets/128029018/fd8c9957-f22e-450a-8329-50d795c4ce3c)
@@ -51,14 +59,23 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
 number of men
+
 number of women
+
 number of leavers
+
 % employees promoted (FY21)
+
 % of women promoted
+
 % of hires men
+
 % of hires women
+
 % turnover
+
 Average performance rating: men
+
 Average Performance rating: women
 
 ![Screenshot (125)](https://github.com/Sravanthi-Duddeti/PWC-PowerBI-Virtual-Case-Experience/assets/128029018/1709ba2f-69ba-47e0-8041-4c12f2c50b50)
