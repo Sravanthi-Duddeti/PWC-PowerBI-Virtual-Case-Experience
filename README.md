@@ -37,7 +37,7 @@ Agentâ€™s performance quadrant -> average handle time (talk duration) vs ca
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
 
-Customers in the telecom industry are hard-earned: we donâ€™t want to lose them
+Customers in the telecom industry are hard-earned: we don't want to lose them
 
 The retention department is here to get customers back in case of termination
 
