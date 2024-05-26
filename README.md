@@ -66,7 +66,7 @@ Average Performance rating: women
 ![Screenshot (127)](https://github.com/Sravanthi-Duddeti/PWC-PowerBI-Virtual-Case-Experience/assets/128029018/7fa74fd4-3940-4a70-adbf-bcb4b4a524a9)
 
 Reference
-Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience
+Forage - [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
 
 
 
